@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_lan-global-tab"
+  ],
+  "area": [
+    {
+      "xpos": 46,
+      "ypos": 114,
+      "width": 218,
+      "height": 91,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
